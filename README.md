@@ -2,6 +2,11 @@
 
 Đây là repository chứa các thiết kế giao diện cho dự án "Khám Phá" - một nền tảng giúp người dùng trả lời câu hỏi "Đi đâu? Mua gì? Ở đâu?", cung cấp thông tin phong phú về các điểm đến, địa điểm cụ thể, cửa hàng, sản phẩm, sự kiện, và nơi ở.
 
+## Liên Kết Figma
+
+Bạn có thể xem và chỉnh sửa các thiết kế Figma đầy đủ tại:
+[Link Figma Design - Khám Phá](https://www.figma.com/design/DU5iogmbXgmyDIToL7tOEw/khampha?node-id=0-1&p=f&t=dsNbm4JkZF1BaUAl-0)
+
 ## Cấu Trúc Thông Tin
 
 Trang web được tổ chức theo cấu trúc thông tin phân cấp sau:
@@ -13,11 +18,6 @@ Trang web được tổ chức theo cấu trúc thông tin phân cấp sau:
 5. **Khách sạn/Nơi ở (Accommodation)**: Thông tin chỗ ở
 6. **Kỳ nghỉ cho thuê (Stay Listing)**: Tin đăng cho thuê lại timeshare/kỳ nghỉ
 7. **Sự kiện (Event)**: Hoạt động diễn ra tại Địa điểm/Điểm đến
-
-## Liên Kết Figma
-
-Bạn có thể xem các thiết kế Figma đầy đủ tại:
-[Link Figma Design - Khám Phá](https://www.figma.com/file/...)
 
 ## Các Màn Hình Chính
 
@@ -48,3 +48,14 @@ Bạn có thể xem các thiết kế Figma đầy đủ tại:
 - Phân cấp rõ ràng
 - Responsive (hoạt động tốt trên mọi thiết bị)
 - Lấy khám phá làm trung tâm
+
+## Cấu Trúc Repository
+
+- **/designs**: Chứa các file mô tả thiết kế chi tiết
+  - 01-home-screen.md
+  - 02-search-results.md
+  - 03-detail-screens.md
+  - 04-management-authentication.md
+  - 05-components-design-system.md
+
+- **/assets**: Chứa tài nguyên hình ảnh thiết kế
